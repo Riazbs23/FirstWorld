@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
+
+            //C# Variables
+            int a = 10;
+            int b = 20;
+            int result = a + b;
+            Console.WriteLine(result);
+
         }
     }
 }
